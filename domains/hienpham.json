@@ -6,10 +6,6 @@
     "email": "hienphamtm74@gmail.com"
   },
   "records": {
-    "CNAME": "hienpahm-dev.vercel.app",
-    "TXT": [
-      "vc-domain-verify=hienpham.is-a.dev,90f2ed3d599f911c1ba4",
-      "vc-domain-verify=www.hienpham.is-a.dev,b1e6d9a620b00e7723c3"
-    ]
+    "CNAME": "hienpahm-dev.vercel.app"
   }
 }
